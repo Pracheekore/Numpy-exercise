@@ -1,2 +1,2 @@
 # Numpy-exercise
-Numpy exercise for beginner
+Numpy exercise

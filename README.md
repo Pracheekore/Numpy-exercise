@@ -1,2 +1,0 @@
-# Numpy-exercise
-Numpy exercise
